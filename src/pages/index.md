@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Northern Saints
-image: /img/home-jumbotron.jpg
+image: /img/hero-landing.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
